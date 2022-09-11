@@ -45,11 +45,6 @@
   font-size: 4rem;
 }
 
-.title,
-.description {
-  text-align: center;
-}
-
 .description {
   margin: 4rem 0;
   line-height: 1.5;
